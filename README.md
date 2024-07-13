@@ -1,2 +1,2 @@
-﻿# racing-turtles
-I wrote this program to race turtles.
+﻿# Turtle Race
+This Python program races turtles. Each turtle is given a random speed and special ability.
