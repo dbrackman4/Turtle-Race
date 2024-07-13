@@ -1,0 +1,8 @@
+Red 6
+Yellow 0
+Blue 2
+Green 1
+Magenta 1
+Brown 2
+Purple 0
+Lime 2
