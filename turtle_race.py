@@ -1,6 +1,5 @@
 import turtle
 import random
-import os
 
 turtle.mode("logo")
 num_turtles = 8
